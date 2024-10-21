@@ -1,0 +1,70 @@
+.button {
+    width: 314px;
+    height: 48px;
+    padding: 13px 20px 13px 20px;
+    border-radius: 8px;
+    background-color: var(--color-primary);
+    color: #FFFFFF;
+}
+.border{
+    width: 381px;
+    padding: 36px 30px;
+    border: 1px solid var(--grey-2);
+    border-radius: 4px;
+}
+.description {
+    width: 100%;
+    padding-bottom: 20px;
+
+    h4 {
+        padding-bottom: 20px;
+        font-weight: normal;
+
+    }
+
+    input {
+        width: 314px;
+        height: 52.8px;
+        padding: 0px 16px 0px 16px;
+        border-radius: 8px;
+        background-color: var(--grey-1);
+    }
+
+    p {
+        padding-top: 5px;
+        color: var(--grey-3);
+
+    }
+}
+
+.value {
+    width: 100%;
+    padding-bottom: 20px;
+    h4 {
+        padding-bottom: 20px;
+        font-weight: normal;
+
+    }
+
+    input {
+        width: 314px;
+        height: 52.8px;
+        padding: 0px 16px 0px 16px;
+        border-radius: 8px;
+        background-color: var(--grey-1);
+    }
+
+    p {
+        padding: 10px 0px;
+
+    }
+
+    select {
+        width: 314px;
+        height: 52.8px;
+        padding: 0px 16px 0px 16px;
+        border-radius: 8px;
+        background-color: var(--grey-1);
+        
+    }
+}

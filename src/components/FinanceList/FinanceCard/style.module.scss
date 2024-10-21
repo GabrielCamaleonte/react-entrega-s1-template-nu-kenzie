@@ -1,0 +1,42 @@
+
+    .li__entrada {
+        width: 560px;
+        height: 87px;
+        border-radius: 4px;
+        border-left: 4px solid var(--color-secondary);
+        background-color: var(--grey-1);
+        padding: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .div__descripition{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    button{
+        width: 49px;
+        height: 19px;
+        border-radius: 2px;
+        background-color: var(--grey-2);
+    }
+    
+
+.div__value{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 20px;
+}
+.li__despesa{
+    width: 560px;
+    height: 87px;
+    border-radius: 4px;
+    border-left: 4px solid var(--grey-2);
+    background-color: var(--grey-1);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
